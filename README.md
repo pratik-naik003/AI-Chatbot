@@ -1,5 +1,5 @@
-AI Chatbot using LangGraph, ChatCerebras & Streamlit
 
+AI Chatbot using LangGraph, ChatCerebras & Streamlit
 This project is a streaming AI chatbot built using LangGraph, LangChain, Cerebras (Qwen model), and Streamlit.
 
 It demonstrates:
